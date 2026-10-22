@@ -1,10 +1,3 @@
----
-title: "Автоматизация feature engineering для рекомендательных систем"
-subtitle: "T-Lab - исследовательское задание"
-author: "[Имя автора]"
-date: "Октябрь 2025"
----
-
 # Автоматизация feature engineering для рекомендательных систем
 
 ## Аннотация
@@ -312,6 +305,3 @@ scikit-learn==1.5.2
 - [FeatureTools](https://www.featuretools.com/)
 - [OpenFE](https://github.com/IIIS-Liuyi/OpenFE)
 
----
-
-*Автор: [Имя автора]*
